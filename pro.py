@@ -25,3 +25,9 @@ print(tuple([1,2,3]))
 #git init:adott mappa verziókövetésének inditása
 #git add. :
 
+#git config --global user.name "a te github felhasználóneved"
+#git config --global user.email "a te emailed"
+#git remote add origin https://
+#git branch -M main
+#git push -u origin main
+#git clone https:
